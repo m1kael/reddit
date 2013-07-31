@@ -1,4 +1,5 @@
 reddit
 ======
 
-reddit-related code
+A general repository for reddit-related code and scripts. There should
+really be more here, but hopefully soon.
